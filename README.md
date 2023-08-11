@@ -1,5 +1,5 @@
 # Avanti-Bootcamp
- Exercícios de python feitos no Bootcamp Avanti do instituto Atlântico.  
+ Exercícios de python feitos no Bootcamp Avanti do Instituto Atlântico.  
  **1)**  
    A)Crie um progarama que leia dois números inteiro e faça a soma, subtração, multiplicação e divisão entre eles.  
    B)Calcular a área de um cículo.  
